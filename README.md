@@ -3,7 +3,7 @@ Distributed Deployment of ML models at scale
 
 This package is created to distribute KBox, which allow users to share and dereference ML models.
 
-* Download the library [here](https://test.pypi.org/project/airML/)
+* Download the library [here](https://pypi.org/project/airML/)
 
 * Install using pip
 ```

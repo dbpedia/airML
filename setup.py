@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="airML",
-    version="0.0.3",
+    version="0.0.2",
     author="Lahiru Oshara Hinguruduwa",
     author_email='oshara.16@cse.mrt.ac.lk',
     url='https://github.com/AKSW/airML',
