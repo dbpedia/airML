@@ -1,5 +1,5 @@
 # airML
-Distributed Deployment of ML models at scale
+Distributed and Decentralized Deployment of ML models at scale
 
 This package is created to distribute KBox, which allow users to share and dereference ML models.
 
